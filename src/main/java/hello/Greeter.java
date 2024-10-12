@@ -1,4 +1,4 @@
-package hello;
+package hellogopi;
 
 public class Greeter {
     public String sayHello() {
