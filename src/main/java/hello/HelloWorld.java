@@ -1,4 +1,4 @@
-package hello gopi;
+package hellogopi;
 
 import org.joda.time.LocalTime;
 
